@@ -3,8 +3,8 @@ import cv2, yaml, numpy as np
 from PIL import Image
 
 # -------------------- PAGE SETUP --------------------
-st.set_page_config(page_title="EcoHome Advisor (MVP) - EN", page_icon="🌿", layout="wide")
-st.title("🌿 EcoHome Advisor — Sustainable Renovation Recommender (MVP)")
+st.set_page_config(page_title="EcoHome Advisor", layout="wide")
+st.title("EcoHome Advisor: Sustainable Renovation Recommender")
 
 st.markdown("""
 **How it works**
